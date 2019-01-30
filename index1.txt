@@ -1,1 +1,6 @@
 Hot fix issua 2
+<<<<<<< HEAD
+/ sua tren master
+=======
+/ sua code tren issue2
+>>>>>>> issue1Hot fix issua 2
